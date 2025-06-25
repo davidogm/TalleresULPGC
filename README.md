@@ -1,2 +1,2 @@
 # TalleresULPGC
-Talleres ULPGC
+Talleres ULPGC sobre Overleaf y XAI
